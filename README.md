@@ -4,9 +4,9 @@
 ## [正在进行的比赛Baseline合集](https://github.com/chengjian2018/data-science-competition/tree/main/ongoing)
 
 ## [已完成比赛](https://github.com/chengjian2018/data-science-competition)
-#### 2020/9/30  
-* [高分遥感图像软件解译大赛](https://github.com/chengjian2018/data-science-competition/tree/main/gf2-gf3-competition)
-
 #### 2021/5/12
-* [招商银行Fintech大赛](https://github.com/chengjian2018/data-science-competition/tree/main/Fintech-competition)
+* [招商银行Fintech大赛](https://github.com/chengjian2018/data-science-competition/tree/main/Fintech-competition)(**队长 Rank 19/1000+**)
+#### 2020/9/30  
+* [高分遥感图像软件解译大赛](https://github.com/chengjian2018/data-science-competition/tree/main/gf2-gf3-competition)(**个人参赛 Rank 15/289**)
+
  

@@ -79,13 +79,6 @@ inference
 python inference.py input_path output_path
 ```
 ## 结果
-训练曲线
-
-<img src='images/1.png' width=600>
-
-valid
-
-<img src='images/2.png' width=600>
 
 实例分割
 
