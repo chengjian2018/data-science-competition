@@ -1,4 +1,6 @@
 ## 各个新上线的比赛baseline
+#### 2021/05/22
+[微信大数据挑战赛DeepCTR baseline](https://github.com/zanshuxun/WeChat_Big_Data_Challenge_DeepCTR_baseline)
 #### 2021/05/20
 [微信大数据挑战赛官方baseline](https://github.com/WeChat-Big-Data-Challenge-2021/WeChat_Big_Data_Challenge)
 #### 2021/05/03
