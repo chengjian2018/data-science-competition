@@ -5,3 +5,5 @@
 [微信大数据挑战赛官方baseline](https://github.com/WeChat-Big-Data-Challenge-2021/WeChat_Big_Data_Challenge)
 #### 2021/05/03
 [招商银行2021FinTech数据分析赛道-EDA+Baseline](https://github.com/DLLXW/data-science-competition/tree/main/else/%E6%8B%9B%E5%95%86%E9%93%B6%E8%A1%8C2021FinTech)
+#### 2021/06/21
+[科大讯飞AI开发者大赛-基于用户画像的商品推荐挑战赛](https://github.com/chengjian2018/data-science-competition/tree/main/user-pensona)
