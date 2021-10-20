@@ -7,3 +7,8 @@
 [招商银行2021FinTech数据分析赛道-EDA+Baseline](https://github.com/DLLXW/data-science-competition/tree/main/else/%E6%8B%9B%E5%95%86%E9%93%B6%E8%A1%8C2021FinTech)
 #### 2021/06/21
 [科大讯飞AI开发者大赛-基于用户画像的商品推荐挑战赛](https://github.com/chengjian2018/data-science-competition/tree/main/user-pensona)
+
+## 历史比赛top解读
+#### 2020 
+[腾讯广告算法大赛代码](https://github.com/guoday/Tencent2020_Rank1st)
+[腾讯广告算法大赛解读](https://github.com/chengjian2018/data-science-competition/blob/main/other-contest/Tencent/README.md)
