@@ -17,4 +17,4 @@
 ## 论文模型代码理解与解读
 ### Deep Interest Network for Click-Through Rate Prediction
 [DIN论文以及代码](https://paperswithcode.com/paper/deep-interest-network-for-click-through-rate#code)
-[DIN模型解读](https://mp.weixin.qq.com/s/tThMIPIjne23ReYD6D3kSA)
+[DIN模型解读](https://github.com/chengjian2018/data-science-competition/blob/main/other-contest/DIN/README.md)
