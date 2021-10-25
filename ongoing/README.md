@@ -13,6 +13,10 @@
 [腾讯广告算法大赛代码](https://github.com/guoday/Tencent2020_Rank1st)
 [腾讯广告算法大赛解读](https://github.com/chengjian2018/data-science-competition/blob/main/other-contest/Tencent/README.md)
 
+#### 2019
+[腾讯广告算法大赛代码](https://github.com/guoday/Tencent2020_Rank1st)
+[腾讯广告算法大赛解读](https://github.com/chengjian2018/data-science-competition/blob/main/other-contest/Tencent/README.md)
+
 
 ## 论文模型代码理解与解读
 ### Deep Interest Network for Click-Through Rate Prediction
