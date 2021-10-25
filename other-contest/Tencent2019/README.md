@@ -293,7 +293,7 @@
 
 ### 特征交叉
 ![](img/CIN.png)
-参考[xdeepfm解读](www.baidu.com)，代码部分为
+参考[xdeepfm解读](https://github.com/chengjian2018/data-science-competition/blob/main/other-contest/Tencent2019/recommend_systems.md)，代码部分为
 ```
 
     def _build_extreme_FM(self, hparams, nn_input, res=False, direct=False, bias=False, reduce_D=False, f_dim=2):
