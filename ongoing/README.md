@@ -23,5 +23,9 @@
 [DIN论文以及代码](https://paperswithcode.com/paper/deep-interest-network-for-click-through-rate#code)
 [DIN模型解读](https://github.com/chengjian2018/data-science-competition/blob/main/other-contest/DIN/README.md)
 
+### Deep Interest Evolution Network for Click-Through Rate Prediction
+[DIEN论文以及代码](https://paperswithcode.com/paper/deep-interest-evolution-network-for-click#code)
+[DIEN模型解读](https://github.com/chengjian2018/data-science-competition/blob/main/other-contest/DIEN/dien.md)
+
 ### 推荐系统模型理解与解读
 [DCN/deepfm等模型解读](https://github.com/chengjian2018/data-science-competition/blob/main/other-contest/Tencent2019/recommend_systems.md)
